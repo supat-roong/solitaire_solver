@@ -37,6 +37,10 @@ This project combines computer vision, OCR, and heuristic algorithms to automati
 
 ## Gameplay Examples
 
+
+https://github.com/user-attachments/assets/2d7def7b-a6d9-4990-adb8-68377b515390
+
+
 The video demonstrates the Solitaire Solver automatically detecting cards and making optimal moves to solve a Klondike Solitaire game, showcasing real-time game interaction and move execution.
 
 ## Installation
@@ -80,7 +84,11 @@ python main.py
 4. The program will automatically solve the game!
 
 ## Debug Visualization
-This project includes a built-in debugger for each computer vision step, allowing you to visualize card detection and recognition in real-time.
+This project also includes a built-in debugger for each computer vision step, allowing you to visualize card detection and recognition in real-time.
+
+
+
+https://github.com/user-attachments/assets/d495185b-d6e5-4b60-9123-358017f5449b
 
 
 ## Project Structure
