@@ -33,8 +33,7 @@ This project combines computer vision, OCR, and heuristic algorithms to automati
 - Real-time move execution based on solver decisions
 
 
-#### **Limitations**
-The heuristic-based solver works well for most Solitaire setups but does not guarantee the optimal solution or solve every game, particularly in more complex configurations. The card recognition accuracy depends on the quality of the input image and the clarity of the cards.
+**Limitations:** The heuristic-based solver works well for most Solitaire setups but does not guarantee the optimal solution or solve every game, particularly in more complex configurations. The card recognition accuracy depends on the quality of the input image and the clarity of the cards.
 
 ## Gameplay Examples
 
